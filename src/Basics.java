@@ -1,15 +1,11 @@
 public class Basics {
     public static void main(String[] args) {
-//       (// used for single line comment)
-//        (/* Block */ used fot Multi line comment)
-//        Newbie lines
-//       (ln after print is stand for new line):
-//        (\n comment stand for new line Start in single Sentence)
-       /* System.out.println("Hello, Friend!");
+//        Newbies Lines
+        System.out.println("Hello, Friend!");
         System.out.println("Hello, Friend!");
         System.out.println("What is your name?");
         System.out.println("What is your age?");
-        System.out.println("You are not Elliot \nYou are Mastermind"); */
+        System.out.println("You are not Elliot \nYou are Mastermind");
 
 //        Variables Practice
 //        Declaring Variables First
