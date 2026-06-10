@@ -39,6 +39,17 @@ public class Operators {
         double amount2 = sc.nextDouble();
         System.out.println("Answer = " +(amount1+amount2));
 
+//
+        String name;
+        int age;
+        System.out.println("What is your name");
+        name = sc.next();
+
+        System.out.println("What is your age");
+        age = sc.nextInt();
+
+        System.out.println("Welcome "+name+" You are "+age+" years old");
+
 
 
     }
